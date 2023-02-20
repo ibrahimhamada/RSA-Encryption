@@ -20,3 +20,9 @@ My Project of the Discrete Mathematics Course Offered in Fall 2021 @ Zewail City
             2) Open a ciphered text file, decipher the contents and save the deciphered text in another file as a plain text.
             3) Control Hazards due to Branch or PC write
      
+
+## Code Demo:
+https://drive.google.com/file/d/1E-ILR0AnuFYrzkUYrQG77XUbcCBzMSkU/view?usp=sharing
+
+## Presentation Video:
+https://drive.google.com/file/d/1XVg3iqTqpBa234V8UdSu6v7qtPWEMHQE/view?usp=sharing
